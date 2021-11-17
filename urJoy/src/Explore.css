@@ -1,0 +1,11 @@
+.heading{
+    color: #D6A55D;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.Head{
+    display: flex;
+    justify-content: space-between;
+}
+

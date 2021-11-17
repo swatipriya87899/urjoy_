@@ -1,0 +1,10 @@
+
+.heading_style{
+    background: -webkit-linear-gradient(#9B3A8E, #D9304E, #FA7E44);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Italiana;
+  font-size: 6.5rem;
+  padding: 0rem 1rem;
+  
+}

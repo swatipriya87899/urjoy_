@@ -1,0 +1,18 @@
+.heading{
+    color: #D6A55D;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.queue_bottom_btn{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+

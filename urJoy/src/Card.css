@@ -1,0 +1,14 @@
+.card_box{
+    width: 35rem;
+    height: 45rem;
+    background-color: #29282B;
+    border-radius: 1rem;
+    box-shadow: 4px 4px 8px #000000;
+}
+
+.heading{
+    font-size: 3rem;
+    color: white;
+    display: inline;
+}
+

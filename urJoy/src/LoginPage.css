@@ -1,0 +1,21 @@
+.login{
+    display: flex;
+    justify-content: center;
+}
+
+.login_img{
+    width: 30%;
+    height: 80%;
+    /* position: relative;
+    bottom: 3rem; */
+}
+
+.input{
+    margin-top: 5rem;
+}
+
+.login_btn{
+   position: relative;
+   right: 3rem;
+
+}

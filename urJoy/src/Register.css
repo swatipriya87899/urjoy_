@@ -1,0 +1,9 @@
+.card{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 4rem;
+}
+
+.card_style{
+    width: 30rem;
+}

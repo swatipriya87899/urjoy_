@@ -1,0 +1,8 @@
+.queue_list{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    margin: 0rem 9rem;
+}

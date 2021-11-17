@@ -1,0 +1,27 @@
+html{
+  font-size: 10px;
+}
+
+*{
+  background-color: #161616;
+}
+
+.btn{
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 3rem;
+}
+
+.images{
+  display: flex;
+  justify-content: center;
+}
+
+.man{
+  width: 30%;
+}
+
+.queue{
+  width: 30%;
+}
+
